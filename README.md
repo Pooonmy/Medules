@@ -6,8 +6,8 @@ The ESP32 Smart Med Box is a health monitoring device designed to track a user's
 + Heart Rate Monitoring
 + Body Temperature Measurement
 + Medication Storage
-+ + User-friendly Interface
-  + Remote Health Monitoring
++ User-friendly Interface
++ Remote Health Monitoring
 
 ### Core Components
 + ESP32
