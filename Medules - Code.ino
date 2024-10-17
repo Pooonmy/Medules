@@ -18,10 +18,10 @@
 WiFiClient espClient;
 PubSubClient client(espClient);
 //=============================================
-const char* ssid = "LAPTOP-POONMY";
-const char* password = "asdfghjkl";
+const char* ssid = "********"; //Replace with ur ssid and password
+const char* password = "********";
 //==============================================
-const char* lineToken = "anbRfKBqK7ehGRR6H2OhOsX4PbV6rNOSWsSUZoYuSdr";
+const char* lineToken = "********";
 const char* mqtt_broker = "broker.emqx.io";
 const int mqtt_port = 1883;
 //==============================================
