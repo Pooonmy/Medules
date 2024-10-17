@@ -1,6 +1,6 @@
 # Automatic Reminder System for Smart Med Box
 
-The ESP32 Smart Med Box is a health monitoring device designed to track a user's vital signs and store medications. The system integrates an ESP32 microcontroller with various sensors to monitor heart rate, SpO2 (oxygen saturation), and body temperature. Key components include the MAX30102 sensor for heart rate and SpO2 readings and the DS18B20 sensor for body temperature measurement. The data collected from these sensors is displayed on a connected Node-RED dashboard through Wi-Fi, allowing remote monitoring of health metrics. Additionally, the box includes a designated area for storing medications, helping users manage their health more efficiently.
+The ESP32 Smart Med Box is a health monitoring device designed to track a user's vital signs and store medications. The system integrates an ESP32 microcontroller with various sensors to monitor heart rate and body temperature. Key components include the MAX30102 sensor for heart rate and the DS18B20 sensor for body temperature measurement. The data collected from these sensors is displayed on a connected Node-RED dashboard through Wi-Fi, allowing remote monitoring of health metrics. Additionally, the box includes a designated area for storing medications, helping users manage their health more efficiently.
 
 ### Features
 + Heart Rate Monitoring
